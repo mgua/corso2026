@@ -1,0 +1,2 @@
+give me a simple powershell code that allows to diarize audio input leveraging microsoft windows os components. 
+the voice input (sampled while user keeps spacebar pressed) should be converted to text and corresponding interpreted action request
